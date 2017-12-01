@@ -1,4 +1,4 @@
-# Git½Ì³Ì
+# Git Tutorial
 
 - feature-A
 - fix-B
